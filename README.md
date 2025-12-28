@@ -17,4 +17,4 @@ Soy un estudiante de Ingeniería de Software apasionado por Java, el desarrollo 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-⭐️ [Visita mi CV Online](https://tthesebas.github.io/mi-cv) | 🎄 [Tarjeta Año Nuevo](https://tthesebas.github.io/sorpresa-2026)
+⭐️ [Visita mi CV Online](https://tthesebas.github.io/mi-CV/) | 🎄 [Tarjeta Año Nuevo](https://tthesebas.github.io/bienvenida-2026/)
