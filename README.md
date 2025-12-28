@@ -6,7 +6,7 @@ Soy un estudiante de Ingeniería de Software apasionado por Java, el desarrollo 
 - 🌱 Estoy aprendiendo **Spring Boot y Estructuras de Datos**.
 - 👯 Busco colaborar en proyectos de **Código Abierto**.
 - 💬 Pregúntame sobre **Java, Python o HTML/CSS**.
-- 📫 Cómo contactarme: **tuemail@ejemplo.com**
+- 📫 Cómo contactarme: **gabriel.mesias@epn.edu.ec**
 
 ### 🛠️ Lenguajes y Herramientas
 
