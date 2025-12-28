@@ -1,6 +1,6 @@
 ### Hola, soy Gabriel Sebastian 👋
 
-Soy un estudiante de Ingeniería de Software apasionado por Java, el desarrollo web y la creación de soluciones eficientes.
+Soy un estudiante de Ingeniería en Ciencias de la Computación apasionado por Java, el desarrollo web y la creación de soluciones eficientes.
 
 - 🔭 Actualmente estoy trabajando en mi **Portafolio Web**.
 - 🌱 Estoy aprendiendo **Spring Boot y Estructuras de Datos**.
