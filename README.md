@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hola, soy Gabriel Sebastian 👋
 
-<!--
-**TtheSebas/TtheSebas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante de Ingeniería de Software apasionado por Java, el desarrollo web y la creación de soluciones eficientes.
 
-Here are some ideas to get you started:
+- 🔭 Actualmente estoy trabajando en mi **Portafolio Web**.
+- 🌱 Estoy aprendiendo **Spring Boot y Estructuras de Datos**.
+- 👯 Busco colaborar en proyectos de **Código Abierto**.
+- 💬 Pregúntame sobre **Java, Python o HTML/CSS**.
+- 📫 Cómo contactarme: **tuemail@ejemplo.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Lenguajes y Herramientas
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+⭐️ [Visita mi CV Online](https://tthesebas.github.io/mi-cv) | 🎄 [Tarjeta Año Nuevo](https://tthesebas.github.io/sorpresa-2026)
